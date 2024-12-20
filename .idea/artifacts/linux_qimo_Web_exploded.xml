@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="linux_qimo:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/linux_qimo_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="linux_qimo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="linux_qimo" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
